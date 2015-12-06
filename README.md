@@ -1,8 +1,8 @@
 <h1>Pizero Wireless 1 HAT</h1>
 
-The Pizero Wireless 1 HAT is a PCB module that can host either
-
 <img src="https://raw.githubusercontent.com/grodansparadis/pizero_wireless1/master/images/gerbers_pizero_w1_rev_a_top_small.png" width="500">
+
+The Pizero Wireless 1 HAT is a PCB module that can host either
 
 <ul>
 <li>One nrf24L10 wireless tranceiver.</li>
