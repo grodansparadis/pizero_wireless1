@@ -113,7 +113,7 @@
 </layers>
 <board>
 <plain>
-<text x="21.6" y="82.1" size="1.016" layer="25">www.paradiseofthefrog.com</text>
+<text x="20.1" y="82.2" size="1.016" layer="25">www.paradiseofthefrog.com</text>
 <text x="62" y="72" size="1.016" layer="25">Pizero W1</text>
 <text x="61.9" y="70.4" size="1.016" layer="25">Rev A</text>
 </plain>
@@ -4655,7 +4655,7 @@ Covered vias can be set in Masks (Limit).
 <attribute name="MPN" value="" x="12.7" y="78.74" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MF" value="" x="12.7" y="78.74" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="12.7" y="78.74" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="11.56" y="72.709" size="0.6096" layer="27" ratio="10"/>
+<attribute name="VALUE" x="10.26" y="72.509" size="0.6096" layer="27" ratio="10"/>
 </element>
 <element name="C2" library="rcl" package="C0805" value="100n" x="17.22" y="85.29" smashed="yes">
 <attribute name="NAME" x="18.05" y="86.46" size="0.6096" layer="25"/>
